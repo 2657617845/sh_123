@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 a.txt
 
 a.txt v2
+=======
+a.txt v1
+>>>>>>> dfb9653848b29172a33c4fa680ad7ccb154a9e6a
